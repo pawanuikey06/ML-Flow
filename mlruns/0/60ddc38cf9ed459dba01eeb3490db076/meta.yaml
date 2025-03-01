@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/60ddc38cf9ed459dba01eeb3490db076/artifacts
+end_time: 1740846160491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60ddc38cf9ed459dba01eeb3490db076
+run_name: rebellious-bee-633
+run_uuid: 60ddc38cf9ed459dba01eeb3490db076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740846160141
+status: 3
+tags: []
+user_id: pawan
