@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/34e1762298db4c45a5997749aef97646/artifacts
+end_time: 1740848989244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34e1762298db4c45a5997749aef97646
+run_name: fortunate-mare-975
+run_uuid: 34e1762298db4c45a5997749aef97646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740848987666
+status: 3
+tags: []
+user_id: pawan
