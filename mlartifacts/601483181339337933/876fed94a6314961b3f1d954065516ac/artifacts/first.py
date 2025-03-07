@@ -20,10 +20,7 @@ max_depth =6
 n_estimators=8
 
 # Mention your experiment below
-mlflow.set_experiment('ML-Flow Learning 2')
-
-# or instead set experiment we can directly pass the experiment id
-# with mlflow.start_run(experiment_id=601483181339337933 ):
+mlflow.set_experiment('ML-Flow Learning')
 with mlflow.start_run():
     rf =RandomForestClassifier(max_depth=max_depth,n_estimators=n_estimators,random_state=42)
     rf.fit(X_train,y_train)

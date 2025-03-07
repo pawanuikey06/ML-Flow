@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/601483181339337933/876fed94a6314961b3f1d954065516ac/artifacts
+end_time: 1740983662796
+entry_point_name: ''
+experiment_id: '601483181339337933'
+lifecycle_stage: active
+run_id: 876fed94a6314961b3f1d954065516ac
+run_name: marvelous-crab-715
+run_uuid: 876fed94a6314961b3f1d954065516ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740983661463
+status: 3
+tags: []
+user_id: pawan

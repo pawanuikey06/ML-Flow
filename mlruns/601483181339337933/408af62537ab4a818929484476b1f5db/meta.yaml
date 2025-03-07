@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/601483181339337933/408af62537ab4a818929484476b1f5db/artifacts
+end_time: 1740983844799
+entry_point_name: ''
+experiment_id: '601483181339337933'
+lifecycle_stage: active
+run_id: 408af62537ab4a818929484476b1f5db
+run_name: useful-cub-655
+run_uuid: 408af62537ab4a818929484476b1f5db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740983844246
+status: 4
+tags: []
+user_id: pawan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/601483181339337933/b4a2bf8a87c647859d040e4f0ecd75db/artifacts
+end_time: 1740983860713
+entry_point_name: ''
+experiment_id: '601483181339337933'
+lifecycle_stage: active
+run_id: b4a2bf8a87c647859d040e4f0ecd75db
+run_name: unequaled-kit-595
+run_uuid: b4a2bf8a87c647859d040e4f0ecd75db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740983859272
+status: 3
+tags: []
+user_id: pawan

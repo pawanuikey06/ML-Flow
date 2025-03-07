@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/208209796794264690/bcccb72b383a4ed38dda232d0969b9fa/artifacts
+end_time: 1741342258189
+entry_point_name: ''
+experiment_id: '208209796794264690'
+lifecycle_stage: active
+run_id: bcccb72b383a4ed38dda232d0969b9fa
+run_name: puzzled-dolphin-114
+run_uuid: bcccb72b383a4ed38dda232d0969b9fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741342256872
+status: 3
+tags: []
+user_id: pawan
