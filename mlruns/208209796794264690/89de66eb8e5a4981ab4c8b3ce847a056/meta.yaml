@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/208209796794264690/89de66eb8e5a4981ab4c8b3ce847a056/artifacts
+deleted_time: 1741343050987
+end_time: 1741342943524
+entry_point_name: ''
+experiment_id: '208209796794264690'
+lifecycle_stage: deleted
+run_id: 89de66eb8e5a4981ab4c8b3ce847a056
+run_name: resilient-moth-346
+run_uuid: 89de66eb8e5a4981ab4c8b3ce847a056
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741342942396
+status: 4
+tags: []
+user_id: pawan

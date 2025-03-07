@@ -7,7 +7,14 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
+import dagshub
+dagshub.init(repo_owner='pawanuikey06', repo_name='ML-Flow', mlflow=True)
+
+mlflow.set_tracking_uri("https://dagshub.com/pawanuikey06/ML-Flow.mlflow")
+
+
+
+
 wine =load_wine()
 
 X=wine.data
@@ -20,7 +27,7 @@ max_depth =7
 n_estimators=11
 
 # Mention your experiment below
-mlflow.set_experiment('ML-Flow Learning 2')
+mlflow.set_experiment('ML-Flow Learning 1')
 
 # or instead set experiment we can directly pass the experiment id
 # with mlflow.start_run(experiment_id=601483181339337933 ):
