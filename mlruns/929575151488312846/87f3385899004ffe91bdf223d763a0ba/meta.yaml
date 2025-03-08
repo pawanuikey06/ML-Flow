@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/929575151488312846/87f3385899004ffe91bdf223d763a0ba/artifacts
+end_time: 1741418901718
+entry_point_name: ''
+experiment_id: '929575151488312846'
+lifecycle_stage: active
+run_id: 87f3385899004ffe91bdf223d763a0ba
+run_name: silent-hare-676
+run_uuid: 87f3385899004ffe91bdf223d763a0ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418901621
+status: 3
+tags: []
+user_id: pawan

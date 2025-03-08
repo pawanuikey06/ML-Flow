@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/555679490933153666/93068883b5fc4862afc4b8cc7678e087/artifacts
+end_time: 1741418585806
+entry_point_name: ''
+experiment_id: '555679490933153666'
+lifecycle_stage: active
+run_id: 93068883b5fc4862afc4b8cc7678e087
+run_name: likeable-rat-630
+run_uuid: 93068883b5fc4862afc4b8cc7678e087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418564660
+status: 3
+tags: []
+user_id: pawan

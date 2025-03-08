@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/555679490933153666/7cb2bbb1dc91439c847c2cbd8e4df46f/artifacts
+end_time: 1741418858744
+entry_point_name: ''
+experiment_id: '555679490933153666'
+lifecycle_stage: active
+run_id: 7cb2bbb1dc91439c847c2cbd8e4df46f
+run_name: bright-bird-14
+run_uuid: 7cb2bbb1dc91439c847c2cbd8e4df46f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418848351
+status: 4
+tags: []
+user_id: pawan

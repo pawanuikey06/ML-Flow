@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/555679490933153666/69e4fdc5691945f89167d08363920d4d/artifacts
+end_time: 1741418502993
+entry_point_name: ''
+experiment_id: '555679490933153666'
+lifecycle_stage: active
+run_id: 69e4fdc5691945f89167d08363920d4d
+run_name: illustrious-foal-966
+run_uuid: 69e4fdc5691945f89167d08363920d4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418477783
+status: 3
+tags: []
+user_id: pawan

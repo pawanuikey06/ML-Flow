@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/929575151488312846/596b1fe9602749879d2b3f6f2a280bb0/artifacts
+end_time: 1741418901924
+entry_point_name: ''
+experiment_id: '929575151488312846'
+lifecycle_stage: active
+run_id: 596b1fe9602749879d2b3f6f2a280bb0
+run_name: flawless-skink-151
+run_uuid: 596b1fe9602749879d2b3f6f2a280bb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418901834
+status: 3
+tags: []
+user_id: pawan

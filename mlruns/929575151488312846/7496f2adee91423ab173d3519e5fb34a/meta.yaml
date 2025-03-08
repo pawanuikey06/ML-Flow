@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/929575151488312846/7496f2adee91423ab173d3519e5fb34a/artifacts
+end_time: 1741418902245
+entry_point_name: ''
+experiment_id: '929575151488312846'
+lifecycle_stage: active
+run_id: 7496f2adee91423ab173d3519e5fb34a
+run_name: abrasive-moth-852
+run_uuid: 7496f2adee91423ab173d3519e5fb34a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418902166
+status: 3
+tags: []
+user_id: pawan

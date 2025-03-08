@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/929575151488312846/f0161080103e45c9a3efa5d43cd03283/artifacts
+end_time: 1741418913679
+entry_point_name: ''
+experiment_id: '929575151488312846'
+lifecycle_stage: active
+run_id: f0161080103e45c9a3efa5d43cd03283
+run_name: shivering-moth-247
+run_uuid: f0161080103e45c9a3efa5d43cd03283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418893846
+status: 3
+tags: []
+user_id: pawan

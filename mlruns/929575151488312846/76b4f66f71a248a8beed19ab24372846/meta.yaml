@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/929575151488312846/76b4f66f71a248a8beed19ab24372846/artifacts
+end_time: 1741418902666
+entry_point_name: ''
+experiment_id: '929575151488312846'
+lifecycle_stage: active
+run_id: 76b4f66f71a248a8beed19ab24372846
+run_name: youthful-frog-781
+run_uuid: 76b4f66f71a248a8beed19ab24372846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418902573
+status: 3
+tags: []
+user_id: pawan

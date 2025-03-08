@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/555679490933153666/ac5896dd40e8491ea60527be51fc7356/artifacts
+end_time: 1741418732745
+entry_point_name: ''
+experiment_id: '555679490933153666'
+lifecycle_stage: active
+run_id: ac5896dd40e8491ea60527be51fc7356
+run_name: industrious-boar-492
+run_uuid: ac5896dd40e8491ea60527be51fc7356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418711788
+status: 3
+tags: []
+user_id: pawan

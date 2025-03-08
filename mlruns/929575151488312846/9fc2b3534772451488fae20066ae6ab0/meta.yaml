@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/929575151488312846/9fc2b3534772451488fae20066ae6ab0/artifacts
+end_time: 1741418901508
+entry_point_name: ''
+experiment_id: '929575151488312846'
+lifecycle_stage: active
+run_id: 9fc2b3534772451488fae20066ae6ab0
+run_name: silent-deer-500
+run_uuid: 9fc2b3534772451488fae20066ae6ab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418901394
+status: 3
+tags: []
+user_id: pawan

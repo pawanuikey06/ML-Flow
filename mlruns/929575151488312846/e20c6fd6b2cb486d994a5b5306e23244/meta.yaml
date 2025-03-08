@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/929575151488312846/e20c6fd6b2cb486d994a5b5306e23244/artifacts
+end_time: 1741418901820
+entry_point_name: ''
+experiment_id: '929575151488312846'
+lifecycle_stage: active
+run_id: e20c6fd6b2cb486d994a5b5306e23244
+run_name: victorious-shark-602
+run_uuid: e20c6fd6b2cb486d994a5b5306e23244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418901731
+status: 3
+tags: []
+user_id: pawan

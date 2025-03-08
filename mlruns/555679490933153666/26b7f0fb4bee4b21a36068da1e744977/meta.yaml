@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/555679490933153666/26b7f0fb4bee4b21a36068da1e744977/artifacts
+end_time: 1741418401228
+entry_point_name: ''
+experiment_id: '555679490933153666'
+lifecycle_stage: active
+run_id: 26b7f0fb4bee4b21a36068da1e744977
+run_name: wise-snipe-548
+run_uuid: 26b7f0fb4bee4b21a36068da1e744977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418391076
+status: 4
+tags: []
+user_id: pawan

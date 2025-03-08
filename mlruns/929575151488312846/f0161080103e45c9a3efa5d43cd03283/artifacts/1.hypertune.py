@@ -80,7 +80,7 @@ with mlflow.start_run() as parent:
     mlflow.sklearn.log_model(grid_search.best_estimator_, "random_forest")
 
     # Set tags
-    mlflow.set_tag("author", "Pawan Kumar Uikey")
+    mlflow.set_tag("author", "Vikash Das")
 
     print(best_params)
     print(best_score)

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/929575151488312846/d9db51527db149ad92e10118e1bc6778/artifacts
+end_time: 1741418902355
+entry_point_name: ''
+experiment_id: '929575151488312846'
+lifecycle_stage: active
+run_id: d9db51527db149ad92e10118e1bc6778
+run_name: aged-flea-500
+run_uuid: d9db51527db149ad92e10118e1bc6778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418902267
+status: 3
+tags: []
+user_id: pawan

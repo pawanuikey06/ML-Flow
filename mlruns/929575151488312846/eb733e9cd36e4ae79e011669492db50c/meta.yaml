@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Flow/mlruns/929575151488312846/eb733e9cd36e4ae79e011669492db50c/artifacts
+end_time: 1741418901608
+entry_point_name: ''
+experiment_id: '929575151488312846'
+lifecycle_stage: active
+run_id: eb733e9cd36e4ae79e011669492db50c
+run_name: clean-toad-893
+run_uuid: eb733e9cd36e4ae79e011669492db50c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741418901522
+status: 3
+tags: []
+user_id: pawan
